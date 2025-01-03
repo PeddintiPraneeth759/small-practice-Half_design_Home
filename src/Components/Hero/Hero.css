@@ -1,0 +1,21 @@
+.hero-txt{
+  margin: 0px 120px;
+ 
+}
+.hero-text{
+  color: white;
+  font-size: 40px;
+  font-weight: 500px;
+
+}
+.hero-explore{
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  width: fit-content;
+  margin-top: 70px;
+  padding-left: 30px;
+  border-radius: 60px;
+  background: white;
+  cursor: pointer;
+}
